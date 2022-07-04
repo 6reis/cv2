@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(0, 0, 0, 0.776);
+}
+
+.content{
+    margin: 20px;
+ 
+}
+
+.link{
+    display: flex;
+    align-items: flex-end;
+    font-size: xx-large;
+    color: green;
+}

@@ -1,0 +1,8 @@
+.tabla{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    font-size: xx-large;
+   
+}
